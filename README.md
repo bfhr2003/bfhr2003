@@ -8,7 +8,7 @@
 
 <h3 align="center">Let's get in touch</h3>
 
-| [![LinkedIn](https://img.shields.io/badge/-Connect_with_me_on_LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/brayan-felipe-h-66b608267/) | [![GitHub](https://img.shields.io/badge/-Check_out_my_GitHub-black?logo=github)](https://github.com/bfhr2003) |
+| [![LinkedIn](https://img.shields.io/badge/-Connect_with_me_on_LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/brayanhortua/) | [![GitHub](https://img.shields.io/badge/-Check_out_my_GitHub-black?logo=github)](https://github.com/bfhr2003) |
 | :---: | :---: |
 
 <!--
